@@ -30,6 +30,17 @@ nav{
     border-radius: 8px;
     font-size: 1.1rem;
 }
+.Description{
+    max-width: 670px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e1e2f;
+    color: #f0f0f0;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 8px;
+    font-size: 1.1rem;
+} 
+}
 .logo1{
     width: 200px;
 }
