@@ -30,19 +30,8 @@ nav{
     border-radius: 8px;
     font-size: 1.1rem;
 }
-.Description{
-    max-width: 670px;
-    margin: 40px auto;
-    padding: 20px;
-    background-color: #1e1e2f;
-    color: #f0f0f0;
-    font-family: 'Poppins', sans-serif;
-    border-radius: 8px;
-    font-size: 1.1rem;
-} 
-}
 .logo1{
-    width: 200px;
+    width: 500px;
 }
 nav ul li{
     display: inline-block;
@@ -68,7 +57,26 @@ nav ul li a::after{
 nav ul li a:hover::after{
     width: 100%;
 }
-
+figure h4{
+    max-width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e1e2f;
+    color: #f0f0f0;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 8px;
+    font-size: 1.1rem;
+}
+.logos a{
+    margin-top: 20px;
+    color: #6984e2;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
 .sub-title{
     background-color: #6984e2;
     font-size: 45px;
