@@ -289,8 +289,8 @@ form input, form textarea{
     border-radius: 6px;
 }
 form .btn2{
-    padding: 5px 60px;
-    font-size: 18px;
+    padding: 14px 60px;
+    font-size: 1px;
     margin-top: 20px;
     cursor: pointer;
 }
@@ -391,3 +391,4 @@ nav .fa-solid{
     display: block;
 
 }  
+
